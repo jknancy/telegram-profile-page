@@ -11,5 +11,9 @@ Telegram Style Personal Profile Page
 ![Who (am I) Page](https://github.com/user-attachments/assets/c2125a5c-12a4-40a4-bdf9-d5c74db64f6e)
 Some of the parts of this page are obtained from Telegram by HTTP.
 
+# Requirements
+PHP 7.4
+Apache 2.4.58 , RewriteOn
+
 You're free to use this project's code.
 Please keep the link to this project if possible :)
